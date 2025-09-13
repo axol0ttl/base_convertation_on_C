@@ -1,6 +1,6 @@
 <style>
   defualt: {
-    color = red;
+    zachem = neznau;
   }
 </style>
 
